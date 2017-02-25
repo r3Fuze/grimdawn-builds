@@ -4,5 +4,16 @@
   "description": "Grim Dawn Build Compendium",
   "main": "index.js",
   "author": "Morten Lindhardt <r3fuze@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node index.js --presets es2015,stage-2"
+  },
+  "dependencies": {
+    "got": "^6.7.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-stage-2": "^6.22.0"
+  }
 }
