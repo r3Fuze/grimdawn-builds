@@ -1,0 +1,8 @@
+{
+  "name": "grimdawn-builds",
+  "version": "1.0.0",
+  "description": "Grim Dawn Build Compendium",
+  "main": "index.js",
+  "author": "Morten Lindhardt <r3fuze@gmail.com>",
+  "license": "MIT"
+}
