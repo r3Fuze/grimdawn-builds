@@ -125,7 +125,11 @@ got(BUILDS_URL)
 
                         propValues = _.compact(propValues)
 
-                        if (propValues.length === 1 && propValues[0] === "None") {
+                        // Account for messed up HTML formatting
+                        propValues = _.map(propValues, e => e.replace(":", "").trim())
+
+                        // Replace arrays only containing "None" or empty strings with empty arrays
+                        if (propValues.length === 1 && (propValues[0] === "None" || propValues[0] === "")) {
                             propValues = []
                         }
 
