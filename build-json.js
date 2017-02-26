@@ -87,6 +87,7 @@ got(BUILDS_URL)
                     classes[parentBuild] = []
                 }
 
+                // Some urls might have leftover html so we remove it
                 let url = stripTags($el.find("a").attr("href"))
 
                 if (url.startsWith("showthread")) {
@@ -123,6 +124,10 @@ got(BUILDS_URL)
                         let propValues = propValue.split(", ")
 
                         propValues = _.compact(propValues)
+
+                        if (propValues.length === 1 && propValues[0] === "None") {
+                            propValues = []
+                        }
 
                         build.description = build.$data.find("font").first().text()
 
