@@ -2,7 +2,6 @@ import got from "got"
 import jsonfile from "jsonfile"
 import _ from "lodash"
 import stripTags from "striptags"
-//import cheerio from "cheerio"
 import jQuery from "jquery"
 import jsdom from "jsdom"
 
@@ -24,7 +23,7 @@ got(BUILDS_URL)
                 throw err
             }
 
-            let $ = jQuery(window)//cheerio.load(res.body)
+            let $ = jQuery(window)
 
             let classTitleSelector = "font > blockquote > b > font[color='#999900']"
             let classSingleTitleSelector = "font > blockquote > b > u > font[color='#999900']"
@@ -42,12 +41,8 @@ got(BUILDS_URL)
 
             $builds.each((i, el) => {
                 let $el = $(el)
-                //console.log("------")
-                //console.log($el.find("a").text().trim())
 
                 let $buildData = $($el.get(0))
-
-                //console.log($($buildData.get(0)).find("font > a").text())
 
                 // Some builds have messed up formatting so we fix it
                 // Don't ask how it works
@@ -69,7 +64,7 @@ got(BUILDS_URL)
                 let $parent = $el.parent().parent()
                 let parentBuild
                 let $parentTitleSelector
-                let $parentTitleElement // .find("blockquote > b > font")
+                let $parentTitleElement
 
                 // .prevUntil() can't be used on the build just after a class title so we need another selector
                 if ($parent.prevUntil("font").length > 0) {
@@ -88,9 +83,6 @@ got(BUILDS_URL)
 
                 parentBuild = $parentTitleElement.find($parentTitleSelector).text()
 
-                //classes[parentBuild][buildName] = {}
-                //
-
                 if (classes[parentBuild] === undefined) {
                     classes[parentBuild] = []
                 }
@@ -108,10 +100,6 @@ got(BUILDS_URL)
                         url: url
                     }
                 })
-
-                //console.log(Object.keys(classes).includes(parentBuild))
-                //console.log(buildName)
-                //console.log(parentBuild)
             })
 
             let onlyText = el => {
@@ -146,18 +134,6 @@ got(BUILDS_URL)
                 })
             }
 
-            let testDesc = classes["Battlemage (Arcanist + Soldier)"][3].description
-            let descSplit = testDesc.split("(")
-
-            // Remove author
-            descSplit.pop()
-
-            //console.log(testDesc)
-
-            for (let i = 1; i < descSplit.length; i++) {
-                console.log("(" + descSplit[i].split(")")[0] + ")")
-            }
-
             jsonfile.writeFile("./builds.json", classes, { spaces: 2}, err => {
                 if (err) {
                     throw err
@@ -165,8 +141,6 @@ got(BUILDS_URL)
                 console.log("json written")
             })
         })
-
-        // console.log(classList.join("\n"))
     })
     .catch(err => {
         console.log(err)
