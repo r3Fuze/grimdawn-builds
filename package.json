@@ -9,11 +9,34 @@
     "start": "babel-node index.js --presets es2015,stage-2"
   },
   "dependencies": {
-    "got": "^6.7.1"
+    "cheerio": "^0.22.0",
+    "got": "^6.7.1",
+    "jquery": "^3.1.1",
+    "jsdom": "^9.11.0"
   },
   "devDependencies": {
     "babel-cli": "^6.23.0",
     "babel-preset-es2015": "^6.22.0",
-    "babel-preset-stage-2": "^6.22.0"
+    "babel-preset-stage-2": "^6.22.0",
+    "xo": "^0.17.1"
+  },
+  "xo": {
+    "semicolon": false,
+    "space": 4,
+    "rules": {
+      "quotes": [
+        "error",
+        "double"
+      ],
+      "dot-notation": "off",
+      "spaced-comment": "off",
+      "object-curly-spacing": "off",
+      "no-unused-expressions": "off",
+      "no-else-return": "off",
+      "import/prefer-default-export": "off",
+      "import/default": "off",
+      "ava/no-todo-test": "off",
+      "ava/no-skip-test": "off"
+    }
   }
 }
