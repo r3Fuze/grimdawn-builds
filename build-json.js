@@ -121,7 +121,9 @@ got(BUILDS_URL)
 
                         let propType = $el.find("font").text().trim().replace(":", "")
                         let propValue = onlyText($el)
-                        let propValues = propValue.split(", ")
+
+                        // Split on ', ' and " and "
+                        let propValues = propValue.split(/, | and /)
 
                         propValues = _.compact(propValues)
 
@@ -143,7 +145,7 @@ got(BUILDS_URL)
                 })
             }
 
-            jsonfile.writeFile("./builds.json", classes, { spaces: 2}, err => {
+            jsonfile.writeFile("./builds.json", classes, { spaces: 2 }, err => {
                 if (err) {
                     throw err
                 }

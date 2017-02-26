@@ -10,6 +10,7 @@
     "skills": "babel-node build-skills.js --presets es2015,stage-2"
   },
   "dependencies": {
+    "fs-promise": "^2.0.0",
     "got": "^6.7.1",
     "jquery": "^3.1.1",
     "jsdom": "^9.11.0",
@@ -37,6 +38,7 @@
       "no-unused-expressions": "off",
       "no-else-return": "off",
       "no-warning-comments": "off",
+      "guard-for-in": "off",
       "import/prefer-default-export": "off",
       "import/default": "off",
       "ava/no-todo-test": "off",
