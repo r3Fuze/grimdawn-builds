@@ -12,7 +12,10 @@
     "cheerio": "^0.22.0",
     "got": "^6.7.1",
     "jquery": "^3.1.1",
-    "jsdom": "^9.11.0"
+    "jsdom": "^9.11.0",
+    "jsonfile": "^2.4.0",
+    "lodash": "^4.17.4",
+    "striptags": "^3.0.1"
   },
   "devDependencies": {
     "babel-cli": "^6.23.0",
@@ -33,6 +36,7 @@
       "object-curly-spacing": "off",
       "no-unused-expressions": "off",
       "no-else-return": "off",
+      "no-warning-comments": "off",
       "import/prefer-default-export": "off",
       "import/default": "off",
       "ava/no-todo-test": "off",

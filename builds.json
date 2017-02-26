@@ -1,0 +1,3138 @@
+{
+  "Battlemage (Arcanist + Soldier)": [
+    {
+      "name": "Callidor's Tempest",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=32768",
+        "Damage": [
+          "Aether",
+          "Fire"
+        ],
+        "Active Skills": [
+          "Callidor's Tempest",
+          "Devastation",
+          "War Cry",
+          "Blitz"
+        ],
+        "Passive Skills": [
+          "Iskandra's Elemental Exchange",
+          "Maiven's Sphere of Protection",
+          "Reckless Power",
+          "Arcane Will",
+          "Fighting Spirit",
+          "Field Command"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (hc) (u) (vid) (g3) Callidor's Tempest (Most)"
+    },
+    {
+      "name": "Markovian's Destroyer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=37429",
+        "Damage": [
+          "Physical"
+        ],
+        "Active Skills": [
+          "Cadence",
+          "Blitz",
+          "Oleron's Might",
+          "War Cry",
+          "Mirror of Ereoctes",
+          "Overguard"
+        ],
+        "Passive Skills": [
+          "Counter Strike",
+          "Field Command",
+          "Menhir's Bulwark",
+          "Maiven's Sphere of Protection"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (hc) (u) (g3) (l) Markovian's Destroyer (Mickelangello)"
+    },
+    {
+      "name": "Wraith Warrior",
+      "data": {
+        "url": "http://grimdawn.com/forums/showthread.php?t=46500",
+        "Damage": [
+          "Aether",
+          "Elemental"
+        ],
+        "Active Skills": [
+          "Cadence",
+          "Blitz",
+          "Warcry",
+          "Overguard",
+          "Mirror of Ereoctes",
+          "Nullification"
+        ],
+        "Passive Skills": [
+          "Field Command",
+          "Iskandra's Elemental Exchange",
+          "Maiven's Sphere of Protection",
+          "Reckless Power"
+        ],
+        "WPS Skills": [
+          "None"
+        ]
+      },
+      "description": "[v1.0] (melee) (hc) (u) (vid) (g3) (l) Wraith Warrior (Zars)"
+    },
+    {
+      "name": "The forbidden Aether Warrior",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48841",
+        "Damage": [
+          "Aether",
+          "Elemental"
+        ],
+        "Active Skills": [
+          "Forcewawe",
+          "Blitz",
+          "Nulfication",
+          "Mirror of Ereoctes"
+        ],
+        "Passive Skills": [
+          "Iskandra's Elemental Exchange",
+          "Reckless power",
+          "Field Commend",
+          "Maiven's Speher of Protection",
+          "Iskandra's Prism",
+          "Void Ward Aura"
+        ],
+        "WPS Skills": [
+          "None"
+        ]
+      },
+      "description": "[Melee][v1.0.0.6] (u) (g4) The forbidden Aether Warrior  (Nandi)"
+    },
+    {
+      "name": "[Shield Caster] Callidor's Tempest Aether Battlemage using Shield",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=50029",
+        "Damage": [
+          "Aether"
+        ],
+        "Active Skills": [
+          "Callidor's Tempest",
+          "War Cry",
+          "Blitz",
+          "Overguard",
+          "Mirror of Ereoctes",
+          "Nullification"
+        ],
+        "Passive Skills": [
+          "Reckless Power",
+          "Iskandra's Elemental Exchange",
+          "Field Command",
+          "Counter Strike"
+        ],
+        "WPS Skills": [
+          "None"
+        ]
+      },
+      "description": "[shield caster] [v1.0.0.7] [Shield Caster] Callidor's Tempest Aether Battlemage using Shield (Chthon)"
+    },
+    {
+      "name": "Retaliation, Reflect, Counter-Hit Fast Killing Battlemage",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=49867",
+        "Damage": [
+          "Retaliation",
+          "Reflection"
+        ],
+        "Active Skills": [
+          "Final Stop",
+          "Cadence",
+          "Blitz",
+          "Mirror of Ereoctes",
+          "Blitz",
+          "Overguard",
+          "Nullification"
+        ],
+        "Passive Skills": [
+          "Menhir's Bulwark",
+          "Counter Strike",
+          "Azragorian Tactics",
+          "Vengeance of Cairn",
+          "Field Command"
+        ],
+        "WPS Skills": [
+          "None"
+        ]
+      },
+      "description": " [Melee] [v1.0.0.7] Retaliation, Reflect, Counter-Hit Fast Killing Battlemage (Chthon)"
+    },
+    {
+      "name": "[DW Aether Ranged] DW-Pistols Ranged Cadence Aether Battlemage",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=51283",
+        "Damage": [
+          "Aether"
+        ],
+        "Active Skills": [
+          "Cadence",
+          "Mirror of Ereoctes",
+          "War Cry",
+          "Aether Tendril",
+          "Nullification"
+        ],
+        "Passive Skills": [
+          "Iskandra's Elemental Exchange",
+          "Reckless Power",
+          "Field Command"
+        ],
+        "WPS Skills": [
+          "None"
+        ]
+      },
+      "description": " [Ranged] [v1.0.0.7] [DW Aether Ranged] DW-Pistols Ranged Cadence Aether Battlemage (Chthon)"
+    }
+  ],
+  "Blademaster (Nightblade + Soldier)": [
+    {
+      "name": "Ultimate DPS",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=29617",
+        "Damage": [
+          "Physical",
+          "Pierce",
+          "Cold",
+          "Bleed"
+        ],
+        "Active Skills": [
+          "Blade Spirit",
+          "Shadow Strike",
+          "Pneumatic Burst",
+          "War Cry",
+          "Blade Barrier"
+        ],
+        "Passive Skills": [
+          "Veil of Shadow",
+          "Field Command",
+          "Oleron's Rage"
+        ],
+        "WPS Skills": [
+          "Dual Blades Line"
+        ]
+      },
+      "description": "[v1.0] (u) (d) (vid) (g5) Ultimate DPS (Uberjager)"
+    },
+    {
+      "name": "BlitzStrike",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=23899",
+        "Damage": [
+          "Pierce",
+          "Physical",
+          "Cold",
+          "Internal Trauma"
+        ],
+        "Active Skills": [
+          "Shadow Strike",
+          "Pnuematic Burst",
+          "Blitz",
+          "Ring of Steel",
+          "Blade Barrier"
+        ],
+        "Passive Skills": [
+          "Veil of Shadow",
+          "Night's Chill",
+          "Field Command",
+          "Oleron's Rage"
+        ],
+        "WPS Skills": [
+          "Dual Blades Line"
+        ]
+      },
+      "description": "[v1.0] (u) (g3) BlitzStrike (Amonthar)"
+    },
+    {
+      "name": "The Last Blademaster",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=30989",
+        "Damage": [
+          "Physical",
+          "Internal Trauma"
+        ],
+        "Active Skills": [
+          "Field Command",
+          "Oleron's Rage",
+          "Veil of Shadow"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (vid) (g4) The Last Blademaster (krsboss)"
+    },
+    {
+      "name": "Weapon Pool Skills Blademaster",
+      "data": {
+        "url": "http://grimdawn.com/forums/showthread.php?t=38457",
+        "Damage": [
+          "Pierce",
+          "Bleed",
+          "Cold",
+          "Frostburn",
+          "Acid",
+          "Poison and more"
+        ],
+        "Active Skills": [
+          "Blooddrinker",
+          "Blade Barrier",
+          "Blade Trap"
+        ],
+        "Passive Skills": [
+          "Veil of Shadow and Field Command"
+        ],
+        "WPS Skills": [
+          "Dual Blades Line and Markovian's Advantage"
+        ]
+      },
+      "description": "[v1.0] (g1) (l)  Weapon Pool Skills Blademaster (eisprinzessin)"
+    },
+    {
+      "name": "[1.0.0.6.] DW Blademaster with 0 physique/spirit",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=47967",
+        "Damage": [
+          "Pierce"
+        ],
+        "Active Skills": [
+          "Cadence",
+          "Pneumatic burst",
+          "War Cry"
+        ],
+        "Passive Skills": [
+          "veil of shadows",
+          "Oleron`s Rage",
+          "Field command"
+        ],
+        "WPS Skills": [
+          "Execution",
+          "Blind Fury",
+          "Assassins mark",
+          "Blades of wrath,"
+        ]
+      },
+      "description": "[Melee] [v1.0.0.6.] (u)(c)(g3)    [1.0.0.6.] DW Blademaster with 0 physique/spirit (JoV)"
+    },
+    {
+      "name": "2H ranged Blademaster 0 physique/spirit- The crosbowmaster - Ultimate ranged DPS",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48783",
+        "Damage": [
+          "Pierce/physical"
+        ],
+        "Active Skills": [
+          "Cadence",
+          "Pneumatic burst",
+          "War Cry"
+        ],
+        "Passive Skills": [
+          "Veil of shadows",
+          "Oleron`s Rage",
+          "Field command"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[Ranged] [v1.0.0.6.] (u)(c)(g5)   2H ranged Blademaster 0 physique/spirit- The crosbowmaster - Ultimate ranged DPS (JoV)"
+    },
+    {
+      "name": "Deathmarked Blademaster Multi-Proc",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=49710",
+        "Damage": [
+          "Pierce",
+          "Cold"
+        ],
+        "Active Skills": [
+          "Beronath's Fury",
+          "Shadow Strike",
+          "Amarasta's Blade Burst",
+          "Blade Spirit",
+          "Pneumatic Burst",
+          "Ring of Steel",
+          "Blade Barrier"
+        ],
+        "Passive Skills": [
+          "Oleron's Rage",
+          "Field Command",
+          "Veil of Shadows"
+        ],
+        "WPS Skills": [
+          "Amarasta's Quick Cut",
+          "Execution"
+        ]
+      },
+      "description": "[Melee] [v1.0.0.7.] Deathmarked Blademaster Multi-Proc (Superfluff)"
+    }
+  ],
+  "Commando (Demolitionist + Soldier)": [
+    {
+      "name": "The Versatile Commando",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=33268",
+        "Damage": [
+          "Fire",
+          "Lightning",
+          "Burn"
+        ],
+        "Active Skills": [
+          "Fire Strike",
+          "Overguard",
+          "Flashbang"
+        ],
+        "Passive Skills": [
+          "Field command",
+          "Oleron's Rage",
+          "Flame Touched",
+          "Vindictive Flame"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (vid) (g3) (l) The Versatile Commando (mammothhunter)"
+    },
+    {
+      "name": "The Harvester",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=31783",
+        "Damage": [
+          "Physical",
+          "Internal trauma",
+          "bleeding"
+        ],
+        "Active Skills": [
+          "Blade Arc",
+          "Flashbang",
+          "Blitz",
+          "War Cry"
+        ],
+        "Passive Skills": [
+          "Oleron's Rage",
+          "Field command",
+          "Flame Touched",
+          "Counter Strike",
+          "Vindictive Flame"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (g3) (l) The Harvester (Grylo)"
+    },
+    {
+      "name": "Brommando",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=36172&highlight=brommando",
+        "Damage": [
+          "Fire",
+          "Physical"
+        ],
+        "Active Skills": [
+          "Firestrike",
+          "Overguard",
+          "War Cry"
+        ],
+        "Passive Skills": [
+          "Vindictive Flame",
+          "Flame Touched",
+          "Menhir's Bulwark",
+          "Field Command",
+          "Aether-Ward Aura",
+          "Fire Aura"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[Melee][v1.0] [U] [L] [VID] [g3]   Brommando (iwearbeaniesbro)"
+    },
+    {
+      "name": "Paladin of the Light",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=46150",
+        "Damage": [
+          "Fire",
+          "Burn ",
+          "Physical"
+        ],
+        "Active Skills": [
+          "Cadence",
+          "Blitz",
+          "Forcewave",
+          "Flashbang",
+          "Canister Bomb",
+          "Thermite Mine"
+        ],
+        "Passive Skills": [
+          "Field Command",
+          "Oleron's Rage",
+          "Flame Touched",
+          "Vindictive Flame",
+          "Aether-Ward Aura"
+        ],
+        "WPS Skills": [
+          "None"
+        ]
+      },
+      "description": "[v1.0] (melee) (hc) (u) (vid) (g5) (l) Paladin of the Light (Zars)"
+    },
+    {
+      "name": "Markovian/Warborn Commando - Juggernaut - high physical dmg shield build + Crucible farmer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48597",
+        "Damage": [
+          "Physical"
+        ],
+        "Active Skills": [
+          "Cadence",
+          "Blitz",
+          "Overguard",
+          "War Cry+Break Morale"
+        ],
+        "Passive Skills": [
+          "Menhir's Bulwark",
+          "Flame Touched+Temper",
+          "Vindictive Flame",
+          "Blast Shield"
+        ],
+        "WPS Skills": [
+          "None"
+        ]
+      },
+      "description": "[v1.0.0.6] (melee) Markovian/Warborn Commando - Juggernaut - high physical dmg shield build + Crucible farmer (Superfluff)"
+    },
+    {
+      "name": "[Physical Caster] Physical Forcewave Commando",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=49754",
+        "Damage": [
+          "Physical"
+        ],
+        "Active Skills": [
+          "Forcewave",
+          "Blitz",
+          "Flashbang",
+          "Gaze of Beronath"
+        ],
+        "Passive Skills": [
+          "Oleron's Rage",
+          "Ulzuin's Wrath",
+          "Field Command",
+          "Flame Touched"
+        ],
+        "WPS Skills": [
+          "None"
+        ]
+      },
+      "description": "[Physical Caster] [1.0.0.7] [Physical Caster] Physical Forcewave Commando (Chthon)"
+    },
+    {
+      "name": "Warborn Gunslinger Commando - The Pistolier",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48690",
+        "Damage": [
+          "Physical",
+          "Internal Trauma",
+          "Pierce"
+        ],
+        "Active Skills": [
+          "Cadence",
+          "Flashbang",
+          "Blackwater Cocktail",
+          "Oleron's Might",
+          "Bloodthirster"
+        ],
+        "Passive Skills": [
+          "Field Command",
+          "Oleron's Rage",
+          "Flamed Touched",
+          "Vindictive Flame"
+        ],
+        "WPS Skills": [
+          "Markovian's Advantage"
+        ]
+      },
+      "description": "[Ranged] [v1.0.0.7] (u) (g5) Warborn Gunslinger Commando - The Pistolier  (Ving)"
+    }
+  ],
+  "Conjurer (Occultist + Shaman)": [
+    {
+      "name": "Ultimate Vitality Caster",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=31945",
+        "Damage": [
+          "Vitality",
+          "Chaos",
+          "Fire"
+        ],
+        "Active Skills": [
+          "Sigil of Consumption",
+          "Grasping Vines",
+          "Storm Totem",
+          "Wendigo Totem",
+          "Doombolt"
+        ],
+        "Passive Skills": [
+          "Possession",
+          "Mogdrogen's Pact",
+          "Solael's Witchfire"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (hc) (u) (vid) (g3) (l) Ultimate Vitality Caster (Retaliator)"
+    },
+    {
+      "name": "Lazy Pok�mon Master",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=24703",
+        "Damage": [
+          "Pets"
+        ],
+        "Active Skills": [
+          "Summon Hellhound",
+          "Summon Briarthorn",
+          "Conjure Primal Spirit",
+          "Curse of Frailty",
+          "Blood of Dreeg",
+          "Bloody Pox",
+          "Devouring Swarm",
+          "Grasping Vines"
+        ],
+        "Passive Skills": [
+          "Bond's of Bysmiel",
+          "Primal Bond",
+          "Mogdrogen's Pact"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (vid) (g3) (l) Lazy Pok�mon Master (JayNyne)"
+    },
+    {
+      "name": "La Magra Summoner",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?p=355747#post355747",
+        "Damage": [
+          "Pets - Bleed/Truama/Phys Focus"
+        ],
+        "Active Skills": [
+          "Summon Hellhound",
+          "Summon Briarthorn",
+          "Conjure Primal Spirit",
+          "Curse of Frailty",
+          "Blood of Dreeg",
+          "Devouring Swarm",
+          "Grasping Vines",
+          "Wendigo Totem"
+        ],
+        "Passive Skills": [
+          "Bond's of Bysmiel",
+          "Primal Bond",
+          "Mogdrogen's Pact"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (vid) (g3) (l)  La Magra Summoner (Cryodacry)"
+    },
+    {
+      "name": "Boogermancer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=36223",
+        "Damage": [
+          "Acid",
+          "Poison"
+        ],
+        "Active Skills": [
+          "Curse of Frailty",
+          "Grasping Vines",
+          "Blood of Dreeg",
+          "Poison Bolt",
+          "Summon Familiar",
+          "Summon Hellhound",
+          "Summon Briarthorn",
+          "Summon Nemesis"
+        ],
+        "Passive Skills": [
+          "Mogdrogen's Pact",
+          "Possession",
+          "Solael's Witchfire"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (vid) (g4) (l) Boogermancer (mothballs)"
+    },
+    {
+      "name": "The Bleeding Conjurer",
+      "data": {
+        "url": "http://grimdawn.com/forums/showthread.php?p=376926#post376926",
+        "Damage": [
+          "Bleeding",
+          "Vitality",
+          "some incidental poison/acid"
+        ],
+        "Active Skills": [
+          "Devouring Swarm",
+          "Grasping Vines",
+          "Storm Totem",
+          "Curse of Frailty",
+          "Blood of Dreeg",
+          "Doom Bolt"
+        ],
+        "Passive Skills": [
+          "Primal Bond",
+          "Mogdrogen's Pact"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (vid) (g2) The Bleeding Conjurer (Kluga)"
+    },
+    {
+      "name": "Kymon's Champion",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=37968",
+        "Damage": [
+          "Electrocute",
+          "Lightning",
+          "Physical",
+          "Cold"
+        ],
+        "Active Skills": [
+          "Wind Devil",
+          "Wendigo Totem",
+          "Storm Totem",
+          "Curse of Frailty"
+        ],
+        "Passive Skills": [
+          "Stormcaller's Pact",
+          "Mogdrogen's Pact"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (g4) Kymon's Champion (jeeeeohn)"
+    },
+    {
+      "name": "DW-Pistol Savagery Lightning Conjurer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48326",
+        "Damage": [
+          "Lightning"
+        ],
+        "Active Skills": [
+          "Savagery",
+          "Curse of Frailty",
+          "Wind Devil",
+          "Blood of Dreeg",
+          "Wendigo Totem"
+        ],
+        "Passive Skills": [
+          "Solael's Witchfire",
+          "Mogdrogen's Pact",
+          "Stormcaller Aura",
+          "Lightning Aura",
+          "Stormcaller's Pact"
+        ],
+        "WPS SkillsMarauder's Salvo": []
+      },
+      "description": "[DW Ranged Lightning] DW-Pistol Savagery Lightning Conjurer (Chthon)"
+    },
+    {
+      "name": "The Hunter",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=50127",
+        "Damage": [
+          "Bleed"
+        ],
+        "Active Skills": [
+          "Savagery",
+          "Devouring Swarm",
+          "Grasping Vines",
+          "Curse of Fraility",
+          "Oleron's Might"
+        ],
+        "Passive Skills": [
+          "Blood of dreeg",
+          "Mogdrogens Pact",
+          "Primal Bond"
+        ],
+        "WPS Skills": [
+          "None"
+        ]
+      },
+      "description": "[Ranged][v1.0.0.7] (u) (g2) The Hunter (Nandi)"
+    },
+    {
+      "name": "[Vitality Shield] Vitality based Sword & Board Conjurer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=50655",
+        "Damage": [
+          "Vitality"
+        ],
+        "Active Skills": [
+          "Savagery",
+          "Wendigo Totem",
+          "Oleron's Might",
+          "Devouring Swarm",
+          "Curse of Frailty",
+          "Blood of Dreeg"
+        ],
+        "Passive Skills": [
+          "Possession",
+          "Solael's Witchfire",
+          "Mogdrogen's Pact",
+          "Azragorian Tactics",
+          "Citadel"
+        ],
+        "WPS Skills": [
+          "None"
+        ]
+      },
+      "description": "[Melee][v1.0.0.7] (u)  [Vitality Shield] Vitality based Sword & Board Conjurer (Chthon)"
+    },
+    {
+      "name": "[Aether Lightning] 2h-Savagery Aether Lightning Conjurer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=50540",
+        "Damage": [
+          "Aether",
+          "Lightning"
+        ],
+        "Active Skills": [
+          "Savagery",
+          "Wendigo Totem",
+          "Oleron's Might",
+          "Curse of Frailty",
+          "Blood of Dreeg"
+        ],
+        "Passive Skills": [
+          "Possession",
+          "Solael's Witchfire",
+          "Mogdrogen's Pact",
+          "Stormcaller Aura"
+        ],
+        "WPS Skills": [
+          "None"
+        ]
+      },
+      "description": "[Melee][v1.0.0.7] (u) [Aether Lightning] 2h-Savagery Aether Lightning Conjurer (Chthon)"
+    }
+  ],
+  "Druid (Arcanist + Shaman)": [
+    {
+      "name": "Sherkhan's Thunderstrike",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=38085",
+        "Damage": [
+          "Lightning"
+        ],
+        "Active Skills": [
+          "Primal Strike",
+          "Grasping Vines",
+          "Wind Devils"
+        ],
+        "Passive Skills": [
+          "Stormcaller's Pact",
+          "Mogdrogen's Pact",
+          "Maiven's Sphere of Protection",
+          "Iskandra's Elemental Exchange"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[Ranged] [v1.0] (hc) (u) (g1) Sherkhan's Thunderstrike (sherkhan)"
+    },
+    {
+      "name": "Thundaja the Druid",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?p=383598",
+        "Damage": [
+          "Lightning",
+          "Bleeding",
+          "Physical"
+        ],
+        "Active Skills": [
+          "Primal Strike",
+          "Savagery",
+          "Wendigo Totem",
+          "Storm Totem",
+          "Mirror of Ereoctes",
+          "Grasping Vines"
+        ],
+        "Passive Skills": [
+          "Maiven's Sphere",
+          "Mogdrogen's Pact",
+          "Elemental Exchange",
+          "Stormcaller's Pact"
+        ],
+        "WPS Skills": [
+          "Feral Hunger",
+          "Upheaval"
+        ]
+      },
+      "description": "[Melee] [v1.0.0.7] (u) (g2-4) (l) Thundaja the Druid (Mirenheart)"
+    },
+    {
+      "name": "Ultos, Wrath of lightning",
+      "data": {
+        "url": "http://grimdawn.com/forums/showthread.php?t=42533",
+        "Damage": [
+          "Lightning",
+          "Physical",
+          "Bleeding"
+        ],
+        "Active Skills": [
+          "Primal strike",
+          "Wendingo totem",
+          "Storm totem",
+          "Mirror of Eroactes"
+        ],
+        "Passive Skills": [
+          "Mogdrogen's pact",
+          "Stromcaller's pact",
+          "Maiven's Sphere of protection"
+        ],
+        "WPS Skills": [
+          "n/a"
+        ]
+      },
+      "description": "[Melee][v1.0] (u) (g3) (l)  Ultos, Wrath of lightning (Nandi)"
+    },
+    {
+      "name": "Elemental-Aether Druid",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=45102",
+        "Damage": [
+          "Elemental",
+          "Aether."
+        ],
+        "Active Skills": [
+          "Panetti's Replicating Missile",
+          "Devastation",
+          "Olexra's Flash Freeze",
+          "Mirror of Ereoctes and Nullification."
+        ],
+        "Passive Skills": [
+          "Maiven's Sphere of Protection",
+          "Iskandra's Elemental Exchange",
+          "Reckless Power",
+          "Aether Aura",
+          "Mogdrogen's Pact",
+          "Void-Ward Aura."
+        ],
+        "WPS Skills": []
+      },
+      "description": "[Caster][v1.0] (vid) (u) (g3) Elemental-Aether Druid (ACBelMutie)"
+    },
+    {
+      "name": "Invoker's Fury",
+      "data": {
+        "url": "http://grimdawn.com/forums/showthread.php?t=47105",
+        "Damage": [
+          "Elemental",
+          "Aether."
+        ],
+        "Active Skills": [
+          "Panetti's Replicating Missile",
+          "Trozan's Sky Shard",
+          "Devastation",
+          "Wind Devil",
+          "Mirror of Ereoctes",
+          "Nullification",
+          "Wendigo Totem"
+        ],
+        "Passive Skills": [
+          "Iskandra's Elemental Exchange",
+          "Maiven's Sphere of Protection",
+          "Star Pact",
+          "Mogdrogen's Pact"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (Caster) (hc) (u) (vid) (g5) (l)  Invoker's Fury (Zars)"
+    },
+    {
+      "name": "Star Seeker",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48373",
+        "Damage": [
+          "Cold",
+          "Lightning",
+          "Frostburn",
+          "Electrocute"
+        ],
+        "Active Skills": [
+          "Trozan's Sky Shard",
+          "Mirror of Ereoctes",
+          "Nullification ",
+          "Wind Devil",
+          "Wendigo Totem"
+        ],
+        "Passive Skills": [
+          "Iskandra's Elemental Exchange",
+          "Maiven's Sphere of Protection",
+          "Star Pact",
+          "Mogdrogen's Pact",
+          "Void-Ward Aura"
+        ],
+        "WPS Skills": [
+          "None"
+        ]
+      },
+      "description": "[v1.0] (caster) (hc) (u) (vid) (g4) (l) Star Seeker (Zars)"
+    }
+  ],
+  "Elementalist (Demolitionist + Shaman)": [
+    {
+      "name": "Melee Pyroclasm",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?p=367138#post367138",
+        "Damage": [
+          "Physical",
+          "Fire",
+          "Lightning"
+        ],
+        "Active Skills": [
+          "Fire Strike",
+          "Chaos Strike",
+          "Wendigo Totem",
+          "Thermite Mine",
+          "Blackwater Cocktail",
+          "Flashbang"
+        ],
+        "Passive Skills": [
+          "Stormcallers Pact",
+          "Flame Touched",
+          "Vindictive Flame",
+          "Mogdrogen's Pact"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (hc) (vid) (g3) (l) Melee Pyroclasm (Crilow)"
+    },
+    {
+      "name": "The Flame Shocker",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?p=381135#post381135",
+        "Damage": [
+          "Fire",
+          "Lightning",
+          "Chaos",
+          "Aether",
+          "Burn",
+          "Electrocute"
+        ],
+        "Active Skills": [
+          "Stun Jacks",
+          "Blackwater Cocktail",
+          "Cannister Bomb",
+          "Wendigo Totem"
+        ],
+        "Passive Skills": [
+          "Flamed Touch",
+          "Blast Shield",
+          "Vindictive Flame",
+          "Stormcaller's Pact",
+          "Mogdrogen's Pact"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (hc) (u) (vid) (g5) The Flame Shocker (sfbistimg)"
+    },
+    {
+      "name": "Pet Hybrid Elementalist",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=38559",
+        "Damage": [
+          "pet",
+          "physical",
+          "bleed",
+          "fire",
+          "lightning"
+        ],
+        "Active Skills": [
+          "Savagery",
+          "Devouring Swarm",
+          "Grasping Vines",
+          "Summon Briarthorn",
+          "Conjure Primal Spirit"
+        ],
+        "Passive Skills": [
+          "Blast shield",
+          "Mogdrogen's Pact",
+          "Flame Touched",
+          "Vindictive Flame"
+        ],
+        "WPS Skills": [
+          "n/a"
+        ]
+      },
+      "description": "[v1.0] (u) (g3)  Pet Hybrid Elementalist (Snazzblaster)"
+    },
+    {
+      "name": "Fire Lucky Luck (Fire Elementalist)",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=46066",
+        "Damage": [
+          "Fire",
+          "Physical."
+        ],
+        "Active Skills": [
+          "Fire Strike",
+          "Thermite Mine",
+          "Canister Bomb",
+          "Flashband",
+          "Blooddrinker."
+        ],
+        "Passive Skills": [
+          "Vindicative Flames",
+          "Flame Touched",
+          "Mogdrogen's Pact",
+          "Aether-Ward Aura."
+        ],
+        "WPS Skills": [
+          "Salvo",
+          "Crossfire",
+          "Duelist."
+        ]
+      },
+      "description": "[Ranged][v1.0](u)(vid)(g4) Fire Lucky Luck (Fire Elementalist) (ACBelMutie)"
+    },
+    {
+      "name": "Ultos Ascended",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=46786",
+        "Damage": [
+          "Physical",
+          "Fire",
+          "Lightning."
+        ],
+        "Active Skills": [
+          "Primal Strike",
+          "Thermite Mine",
+          "Flashbang",
+          "Oleron's Might",
+          "Wendigo Totem"
+        ],
+        "Passive Skills": [
+          "Mogdrogen's Pact",
+          "Stormcaller's Pact",
+          "Vindictive Flame",
+          "Flame Touched",
+          "Stormcaller Aura"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[melee][v1.0](u)(vid)(g4)(l) Ultos Ascended (cadpgamer1992)"
+    },
+    {
+      "name": "Light's Defender",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=47324",
+        "Damage": [
+          "Lightning",
+          "Electrocute",
+          "Fire"
+        ],
+        "Active Skills": [
+          "Stun Jacks",
+          "Flashbang",
+          "Thermite Mine",
+          "Blackwater Cocktail",
+          "Wind Devil",
+          "Wendigo Totem",
+          "Storm Totem"
+        ],
+        "Passive Skills": [
+          "Flame Touched",
+          "Vindictive Flame",
+          "Blast Shield",
+          "Mogdrogen's Pact",
+          "Stormcaller's Pact"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (Caster) (hc) (u) (vid) (g4) (l)  Light's Defender (Zars)"
+    }
+  ],
+  "Pyromancer (Demolitionist + Occultist)": [
+    {
+      "name": "Brimstone Gunslinger",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=31535",
+        "Damage": [
+          "Fire",
+          "Chaos",
+          "Physical",
+          "Lightning"
+        ],
+        "Active Skills": [
+          "Fire Strike",
+          "Flashbang",
+          "Cure of Frailty",
+          "Blood of Dreeg",
+          "Thermite Mine"
+        ],
+        "Passive Skills": [
+          "Flame Touched",
+          "Vindictive Flame",
+          "Solael's Witchfire"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (hc) (u) (vid) (g1) Brimstone Gunslinger (Cryodacry)"
+    },
+    {
+      "name": "Infernal Meleemancer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=36425",
+        "Damage": [
+          "Fire",
+          "Chaos",
+          "Vitality",
+          "Acid"
+        ],
+        "Active Skills": [
+          "Beronath's Fury",
+          "Thermite Mine",
+          "Sigil of Consumption",
+          "Curse of Frailty",
+          "Blood of Dreeg"
+        ],
+        "Passive Skills": [
+          "Solael's Witchfire",
+          "Flame Touched",
+          "Vindictive Flame",
+          "Blast Shield"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (vid) (g2) (l) Infernal Meleemancer (Misguided)"
+    },
+    {
+      "name": "The Ch'thonic Necromancer",
+      "data": {
+        "url": "http://grimdawn.com/forums/showthread.php?p=414094#post414094",
+        "Damage": [
+          ": Chaos",
+          "Fire"
+        ],
+        "Active Skills": [
+          ": Blood of Dreeg",
+          "Flash Bang",
+          "Solael's Flame",
+          "Chaos Strike",
+          "Invocation to Chaos",
+          "Summon Familiar",
+          "Summon Hellhound"
+        ],
+        "Passive Skills": [
+          ": Bonds of Bysmiel",
+          "Solael's Witchfire",
+          "Possession",
+          "Flame Touched",
+          "Blast Shield",
+          "Fire Strike",
+          "Vindictive Flame",
+          "Ancestral Bond",
+          "Conjure Black Scourge"
+        ],
+        "WPS Skills": [
+          ":"
+        ]
+      },
+      "description": "[v1.0][Pet][Melee][Caster] (u) (vid) (g5) The Ch'thonic Necromancer (Klo0ga)"
+    },
+    {
+      "name": "The Corpse Exploder",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=46243",
+        "Damage": [
+          "Fire",
+          "Chaos",
+          "Vitality",
+          "Lightning"
+        ],
+        "Active Skills": [
+          "Firestrike",
+          "Sigil of Comsumption",
+          "BWC High Potency",
+          "Blood of Dreeg",
+          "Curse of Fraility",
+          "Thermite Mines"
+        ],
+        "Passive Skills": [
+          "Vindictive Flame",
+          "Flame Touched",
+          "Fire Aura",
+          "SWF",
+          "Possesions"
+        ],
+        "WPS Skills": [
+          "Direwolf Claw"
+        ]
+      },
+      "description": "[v1.0] [Hybrid Melee/Caster] (HC) [U] [VID] [g5]  The Corpse Exploder (sfbistimg)"
+    },
+    {
+      "name": "Voidfire Leech",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=33762",
+        "Damage": [
+          "Fire",
+          "Chaos",
+          "Vitality"
+        ],
+        "Active Skills": [
+          "Sigil of Consumption",
+          "Blackwater Cocktail",
+          "Curse of Frailty",
+          "Demon's Breath",
+          "Doom Bolt",
+          "Thermite Mine"
+        ],
+        "Passive Skills": [
+          "Possession",
+          "Solael's Witchfire",
+          "Flame Touched",
+          "Vindictive Flame",
+          "Blast Shield"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (caster) (u) (vid) (g1) (l) (c)  Voidfire Leech (Shuranosuke)"
+    },
+    {
+      "name": "Pyromancer 2H ranged - Did you ever wanted to facetank fabius with ranged build?",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48512",
+        "Damage": [
+          "Chaos"
+        ],
+        "Active Skills": [
+          "Fire strike",
+          "flash bangs",
+          "blood of dreeg"
+        ],
+        "Passive Skills": [
+          "Blast shield",
+          "possession"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[Ranged] [v1.0.0.6.] (u)(c)(g3)  Pyromancer 2H ranged - Did you ever wanted to facetank fabius with ranged build? (JoV)"
+    },
+    {
+      "name": "Ranger of Dreeg - Lv. 85 2h-Ranged Quillthrower of Dreeg Acid Pyromancer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=49070",
+        "Damage": [
+          "Acid"
+        ],
+        "Active Skills": [
+          "Fire Strike",
+          "Flashbang",
+          "Bloodthirster",
+          "Blood of Dreeg",
+          "Curse of Frailty"
+        ],
+        "Passive Skills": [
+          "Flame Touched",
+          "Vindictive Flame",
+          "Blast Shield",
+          "Solael's Witchfire",
+          "Possession",
+          "Malediction"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[2h Ranged Acid] [v1.0.0.7.] Ranger of Dreeg - Lv. 85 2h-Ranged Quillthrower of Dreeg Acid Pyromancer  (Chthon)"
+    },
+    {
+      "name": "Infernal Tremors Pyromancer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48435",
+        "Damage": [
+          "Chaos"
+        ],
+        "Active Skills": [
+          "Obsidian Tremors",
+          "Solael's Flame",
+          "Thermite Mine",
+          "Blackwater Cocktail",
+          "Blood of Dreeg",
+          "Curse of Frailty"
+        ],
+        "Passive Skills": [
+          "Flame Touched",
+          "Ulzuin's Wrath",
+          "Solael's Witchfire",
+          "Possesion"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[caster] [v1.0.0.6] Infernal Tremors Pyromancer (Sobertooth)"
+    },
+    {
+      "name": "[Chaos Melee] Empyrion's Chosen DW-Melee Chaos Pyromancer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=51024",
+        "Damage": [
+          "Chaos"
+        ],
+        "Active Skills": [
+          "Fire Strike",
+          "Oleron's Might",
+          "Solael's Flame",
+          "Flashbang",
+          "Thermite Mines",
+          "Blood of Dreeg"
+        ],
+        "Passive Skills": [
+          "Possession",
+          "Solael's Witchfire",
+          "Vindicative Flame",
+          "Flame Touched",
+          "Blast Shield"
+        ],
+        "WPS Skills": [
+          "Mutilate"
+        ]
+      },
+      "description": "[Melee] [v1.0.0.7] (u) [Chaos Melee] Empyrion's Chosen DW-Melee Chaos Pyromancer (Chthon)"
+    }
+  ],
+  "Saboteur (Demolitionist + Nightblade)": [
+    {
+      "name": "Tri-element Saboteur",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=34294",
+        "Damage": [
+          "Lightning",
+          "Fire",
+          "Chaos"
+        ],
+        "Active Skills": [
+          "Firestrike",
+          "Flashbang",
+          "Shadowstrike",
+          "Pneumatic Burst"
+        ],
+        "Passive Skills": [
+          "Malediction",
+          "Veil of Shadow",
+          "Fire Aura",
+          "Flame Touched",
+          "Vindictive Flame"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (vid) (g4) (l) Tri-element Saboteur (Jajaja)"
+    },
+    {
+      "name": "Nex v Ortus Saboteur",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=39851",
+        "Damage": [
+          "Fire",
+          "Cold",
+          "Physical"
+        ],
+        "Active Skills": [
+          "Fire strike",
+          "flashbang",
+          "ring of steel",
+          "pneumatic burst",
+          "shadow strike",
+          "blade barrier"
+        ],
+        "Passive Skills": [
+          "Blast Shield",
+          "Veil of Shadow",
+          "Flame Touched",
+          "Vindictive Flame",
+          "Temper",
+          "Ulzuin's Wrath"
+        ],
+        "WPS Skills": [
+          "Dual Blades Tree"
+        ]
+      },
+      "description": "[Melee][v1.0] (u) (vid) (g3) (l)   Nex v Ortus Saboteur (Amaranthen)"
+    },
+    {
+      "name": "Maelstrom",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?p=453922#post453922",
+        "Damage": [
+          "Lightning"
+        ],
+        "Active Skills": [
+          "Fire Strike",
+          "Flashbang",
+          "Thermite Mines",
+          "Pneumatic Burst",
+          "Blade Barrier",
+          "Oleron's Might",
+          "Shadow-Strike"
+        ],
+        "Passive Skills": [
+          "Flame Touched",
+          "Vindictive Flame",
+          "Blast Shield",
+          "Veil of Shadows",
+          "Phantasmal Armor"
+        ],
+        "WPS Skills": [
+          "Belgothian's Shears",
+          "Amarasta's Quick Cut",
+          "Execution"
+        ]
+      },
+      "description": "[Melee][v1.0] Maelstrom (Chthon)"
+    },
+    {
+      "name": "The Basilisk, Nidalla's Venomblade",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48162",
+        "Damage": [
+          "Acid",
+          "Poison"
+        ],
+        "Active Skills": [
+          "Fire Strike",
+          "Flashbang",
+          "Blood of Dreeg",
+          "Amarasta's Blade Burst",
+          "Ring of Steel",
+          "Shadow Strike",
+          "Pneumatic Burst",
+          "Blade Barrier"
+        ],
+        "Passive Skills": [
+          "Flame Touched",
+          "Veil of Shadow",
+          "Phantasmal Armor",
+          "Anatomy of Murder",
+          "Merciless Repertoire",
+          "Malediction",
+          "Dual blades",
+          "Nidalla's Hidden Hand",
+          "Blast Shield",
+          "Vindicative Flame"
+        ],
+        "WPS Skills": [
+          "Belgothian's Shears",
+          "Amarasta's Quick Cut",
+          "Whirling Death"
+        ]
+      },
+      "description": "[Melee][v1.0] The Basilisk, Nidalla's Venomblade (edisonian)"
+    },
+    {
+      "name": "[Aether Lightning] Dual-wielding Aether Lightning Saboteur",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=50405",
+        "Damage": [
+          "Aether",
+          "Lightning"
+        ],
+        "Active Skills": [
+          "Fire Strike",
+          "Flashbang",
+          "Pneumatic Burst",
+          "Blade Barrier",
+          "Thermite Mines",
+          "Shadow Strike"
+        ],
+        "Passive Skills": [
+          "Stormcaller Aura",
+          "Vindicative Flame",
+          "Aether Aura",
+          "Veil of Shadows",
+          "Flame Touched",
+          "Blast Shield"
+        ],
+        "WPS Skills": [
+          "Amarasta's Quick Cut"
+        ]
+      },
+      "description": "[Melee][v1.0.0.7] (u)  [Aether Lightning] Dual-wielding Aether Lightning Saboteur (Chthon)"
+    }
+  ],
+  "Sorcerer/Sorceress (Arcanist + Demolitionist)": [
+    {
+      "name": "Lasers and Explosions",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=30239",
+        "Damage": [
+          "Aether",
+          "Fire",
+          "Vitality"
+        ],
+        "Active Skills": [
+          "Albrecht's Aether Ray",
+          "Devastation",
+          "Canister Bomb",
+          "Flashbang",
+          "Mirror of Ereoctes",
+          "Maiven's Sphere of Protection",
+          "Iskandra's Elemental Exchange",
+          "Flame Touched",
+          "Vindictive Flame"
+        ],
+        "Passive Skills": [
+          "Reckless Power",
+          "Maiven's Sphere of Protection",
+          "Iskandra's Elemental Exchange",
+          "Flame Touched",
+          "Vindictive Flame"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (vid) (g3) Lasers and Explosions (WolfOverclocked)"
+    },
+    {
+      "name": "Ultimate Pyrotechnician/Sapper",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=37552",
+        "Damage": [
+          "Fire",
+          "Burn",
+          "Physical",
+          "Aether"
+        ],
+        "Active Skills": [
+          "Blackwater Cocktail",
+          "Grenado",
+          "Mortar Trap",
+          "Canister Bomb",
+          "Flashbang",
+          "Mirror of Ereoctes",
+          "Olexra’s Flash Freeze"
+        ],
+        "Passive Skills": [
+          "Ulzuin’s Chosen",
+          "Maiven's Sphere of Protection",
+          "Iskandra's Elemental Exchange",
+          "Flame Touched",
+          "Vindictive Flame"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (vid) (g4) (l) Ultimate Pyrotechnician/Sapper (Amaranthen)"
+    },
+    {
+      "name": "Gladiator Callidor",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=46950",
+        "Damage": [
+          "Fire",
+          "Burn",
+          "Aether"
+        ],
+        "Active Skills": [
+          "Callidor Tempest",
+          "Chaos Strike",
+          "Flashbang",
+          "Blackwater Cocktail",
+          "Nullification",
+          "Mirror of Ereoctes",
+          "Devastation",
+          "Bloodthirster"
+        ],
+        "Passive Skills": [
+          "Maiven's Sphere of Protection",
+          "Iskandra's Elemental Exchange",
+          "Flame Touched",
+          "Vindictive Flame",
+          "Reckless Power"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (c) (vid) (g4) Gladiator Callidor (Narukana)"
+    },
+    {
+      "name": "Gunslinging Sorceress",
+      "data": {
+        "url": "http://grimdawn.com/forums/showthread.php?p=431564#post431564",
+        "Damage": [
+          "Fire/Burn",
+          "Elemental",
+          "Chaos",
+          "Lightning"
+        ],
+        "Active Skills": [
+          "Fire Strike",
+          "Canister Bomb",
+          "Flashbang",
+          "Mirror of Ereoctes",
+          "Nullification",
+          "Demon's Breath"
+        ],
+        "Passive Skills": [
+          "Flame Touched",
+          "Blast Shield",
+          "Vindictive Flame",
+          "Iskandra's Elemental Exchange",
+          "Maiven's Sphere of Protection",
+          "Inner Focus",
+          "Arcane Will"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[Ranged] [v1.0] (u) (g1.5) (vid) Gunslinging Sorceress (Kluga)"
+    },
+    {
+      "name": "Aetherlord",
+      "data": {
+        "url": "http://grimdawn.com/forums/showthread.php?t=47651",
+        "Damage": [
+          "Fire",
+          "Aether"
+        ],
+        "Active Skills": [
+          "Callidor's Tempest",
+          "Olexra's Flash Freeze",
+          "Albrecht's Aether Ray",
+          "Mirror of Ereoctes",
+          "Nullification ",
+          "Blackwater Cocktail",
+          "Flashbang"
+        ],
+        "Passive Skills": [
+          "Iskandra's Elemental Exchange",
+          "Maiven's Sphere of Protection",
+          "Reckless Power",
+          "Flame Touched",
+          "Vindictive Flame",
+          "Void-Ward Aura",
+          "Iskandra's Unity"
+        ],
+        "WPS Skills": [
+          "None"
+        ]
+      },
+      "description": "[v1.0] (caster) (hc) (u) (vid) (g4) (l) Aetherlord (Zars)"
+    },
+    {
+      "name": "Pure Melee DW-Aether Sorcerer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48842",
+        "Damage": [
+          "Aether"
+        ],
+        "Active Skills": [
+          "Fire Strike",
+          "Flashbang",
+          "Mirror of Ereoctes",
+          "Oleron's Might",
+          "Chaos Strike",
+          "Nullification"
+        ],
+        "Passive Skills": [
+          "Flame Touched",
+          "Vindictive Flame",
+          "Blast Shield",
+          "Inner Focus",
+          "Arcane Will",
+          "Iskandra's Elemental Exchange",
+          "Reckless Power",
+          "Mental Alacrity",
+          "Fabric of Reality"
+        ],
+        "WPS Skills": [
+          "Mutilate"
+        ]
+      },
+      "description": "[v1.0] [Melee Aether]  Pure Melee DW-Aether Sorcerer (Chthon)"
+    },
+    {
+      "name": "Sorcerer 2H ranged, Aether dmg - Unmatched clearing speed",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48612",
+        "Damage": [
+          "Aether"
+        ],
+        "Active Skills": [
+          "Fire strike",
+          "flash bangs",
+          "miror of ereoctes"
+        ],
+        "Passive Skills": [
+          "Blast shield",
+          "arcane will"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[Ranged] [v1.0.0.6.] (u)(c)(g5) [1.0.0.6.]Sorcerer 2H ranged, Aether dmg - Unmatched clearing speed (JoV)"
+    },
+    {
+      "name": "Gunslinger Sorcerer - Fire & Chaos",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=50260",
+        "Damage": [
+          "Fire",
+          "Chaos"
+        ],
+        "Active Skills": [
+          "Fire Strike",
+          "Flashbang",
+          "Blackwater Cocktail",
+          "Thermite Mine",
+          "Mirror of Ereoctes",
+          "Nullification",
+          "Bloodthirster"
+        ],
+        "Passive Skills": [
+          "Flamed Touched",
+          "Vindictive Flame",
+          "Iskandra's Elemental Exchange",
+          "Reckless Power",
+          "Maiven's Sphere of Protection"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[Ranged] [v1.0.0.7] (u) (g5) [1.0.0.6.]Gunslinger Sorcerer - Fire & Chaos (Ving)"
+    }
+  ],
+  "Spellbreaker (Arcanist + Nightblade)": [
+    {
+      "name": "The Exiled Starcaller",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=34709",
+        "Damage": [
+          "Cold",
+          "Lightning",
+          "Fire",
+          "Aether"
+        ],
+        "Active Skills": [
+          "Trozan's Sky Shard",
+          "Devastation",
+          "Olexra's Flash Freeze",
+          "Mirror of Ereoctes",
+          "Pneumatic Burst",
+          "Ring of Steel",
+          "Blade Barrier",
+          "Shadow Strike"
+        ],
+        "Passive Skills": [
+          "Veil of Shadow",
+          "Maiven's Sphere of Protection",
+          "Iskandra's Elemental Exchange",
+          "Star Pact",
+          "Chaos Ward Aura"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (vid) (g3-4) (l) The Exiled Starcaller (Primeval)"
+    },
+    {
+      "name": "Zues",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=43561",
+        "Damage": [
+          "Lightning",
+          "Cold"
+        ],
+        "Active Skills": [
+          "Shard of Beronath",
+          "Oleron's Blood",
+          "Shadow Strike",
+          "Ring of Steel",
+          "Olexra's Flash Freeze",
+          "Pneumatic Burst",
+          "Blade Spirit",
+          "Mirror of Ereoctes",
+          "Blade Trap"
+        ],
+        "Passive Skills": [
+          "Maiven's Sphere of Protection",
+          "Iskandra's Elemental Exchange",
+          "Viel of Shadow",
+          "Star Pact"
+        ],
+        "WPS Skills": [
+          "Dual Blades Line"
+        ]
+      },
+      "description": "[Melee] [V1.0] (hc) (u) (vid) (d) (g4) Zues (Twan)"
+    },
+    {
+      "name": "Phantasmal Blade Spellbreaker",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=42210",
+        "Damage": [
+          "Aether",
+          "Fire"
+        ],
+        "Active Skills": [
+          "Phantasmal Blade",
+          "Devastation",
+          "Pneumatic Burst",
+          "Mirror of Ereoctes"
+        ],
+        "Passive Skills": [
+          "Reckless Power",
+          "MSoP",
+          "IEE",
+          "Veil of Shadows"
+        ],
+        "WPS Skills": [
+          "na"
+        ]
+      },
+      "description": "[Caster] (u) (hc) (g2)  Phantasmal Blade Spellbreaker (ETK)"
+    },
+    {
+      "name": "Cold-Hearted Spellbreaker",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=47243",
+        "Damage": [
+          "Cold",
+          "Pierce"
+        ],
+        "Active Skills": [
+          "Shadow Strike",
+          "Amarasta's Blade Burst",
+          "Pneumatic Burst",
+          "Blade Spirit",
+          "Mirror of Ereoctes",
+          "Ring of Steel"
+        ],
+        "Passive Skills": [
+          "Maiven's Sphere of Protection",
+          "Veil of Shadow",
+          "Star Pact",
+          "Chill Aura"
+        ],
+        "WPS Skills": [
+          "Belgothian's Shear",
+          "Amarasta's Quick Cut",
+          "Whirling Death",
+          "Execution"
+        ]
+      },
+      "description": "[Caster] (u) (hc) (g2)  Cold-Hearted Spellbreaker (InkOsk132)"
+    },
+    {
+      "name": "Codename 47 - Lv. 85 DW-Pistols Pure Cold ABB Spellbreaker",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=49058",
+        "Damage": [
+          "Cold"
+        ],
+        "Active Skills": [
+          "Amarasta's Blade Burst",
+          "Olexra's Flash Freeze",
+          "Ring of Steel",
+          "Pneumatic Burst",
+          "Mirror of Ereoctes",
+          "Nullification",
+          "Blade Spirit",
+          "Blade Barrier"
+        ],
+        "Passive Skills": [
+          "Star Pact",
+          "Veil of Shadows",
+          "Iskandra's Elemental Exchange",
+          "Frostdread Presence"
+        ],
+        "WPS Skills": [
+          "Volley"
+        ]
+      },
+      "description": "[DW Ranged Cold]  Codename 47 - Lv. 85 DW-Pistols Pure Cold ABB Spellbreaker (Chthon)"
+    },
+    {
+      "name": "Pure Aether PRM DW Spellbreaker",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=49908",
+        "Damage": [
+          "Aether"
+        ],
+        "Active Skills": [
+          "Panetti's Replicating Missile",
+          "Gaze of Beronath",
+          "Pneumatic Burst",
+          "Chaos Strike",
+          "Mirror of Ereoctes",
+          "Nullification",
+          "Blade Barrier"
+        ],
+        "Passive Skills": [
+          "Veil of Shadows",
+          "Reckless Power",
+          "Iskandra's Elemental Exchange"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[DW Aether Caster]  Pure Aether PRM DW Spellbreaker (Chthon)"
+    },
+    {
+      "name": "Winter's Embrace",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=50212",
+        "Damage": [
+          "Cold"
+        ],
+        "Active Skills": [
+          "Winter King's Might",
+          "Amarata's Blade Burst",
+          "Necrosis",
+          "Blade Spirit",
+          "Shadow Strike",
+          "Nullification",
+          "Mirror of Ereoctes",
+          "Ring of Steel",
+          "Icechill",
+          "Blade Barrier",
+          "Pneumatic Burst"
+        ],
+        "Passive Skills": [
+          "Iskandra's Elemental Exchange",
+          "Maiven's Sphere of Protection",
+          "Star Pact",
+          "Veil of Shadow",
+          "Frostdread Presence",
+          "Heart of the Winter King",
+          "Chill Aura"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0.0.6](u)(vid)(g4)(melee) Winter's Embrace (Sobertooth)"
+    },
+    {
+      "name": "Trozan's Spellbreaker Frostburn damage based close-range build",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?p=462312",
+        "Damage": [
+          "Frostburn",
+          "Cold",
+          "Lightning"
+        ],
+        "Active Skills": [
+          "Trozan's Sky Shard",
+          "Shadow Strike",
+          "Pneumatic Burst",
+          "Amarasta's Blade Burst",
+          "Mirror of Ereoctes",
+          "Nullification",
+          "Ring of Steel"
+        ],
+        "Passive Skills": [
+          "Iskandra's Elemental Exchange",
+          "Star Pact",
+          "Veil of Shadow",
+          "Maiven's Sphere",
+          "Aether & Void-Ward Auras"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0.0.7] (caster) (u) (vid) (g2)) Trozan's Spellbreaker Frostburn damage based close-range build (Weyu)"
+    },
+    {
+      "name": "[Cold Caster] Phantasmal Blades Cold-based Spellbreaker",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=50262",
+        "Damage": [
+          "Cold"
+        ],
+        "Active Skills": [
+          "Phantasmal Blades",
+          "Icechill",
+          "Mirror of Ereoctes",
+          "Nullification",
+          "Pneumatic Burst",
+          "Blade Barrier",
+          "Ring of Steel",
+          "Olexra's Flash Freeze"
+        ],
+        "Passive Skills": [
+          "Veil of Shadows",
+          "Star Pact",
+          "Iskandra's Elemental Exchange",
+          "Cold Aura"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0.0.7] (caster) (u) (vid) (g2)) [Cold Caster] Phantasmal Blades Cold-based Spellbreaker (Chthon)"
+    },
+    {
+      "name": "Cold/frostburn 2H Spellbreaker",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=51396",
+        "Damage": [
+          "Cold",
+          "Frostburn"
+        ],
+        "Active Skills": [
+          "ABB",
+          "Ring of Steel",
+          "Shadow Strike",
+          "pneumatic Burst",
+          "Blade Barrier",
+          "Mirror of Ereoctes",
+          "Nullification"
+        ],
+        "Passive Skills": [
+          "Iskandra's Elemental Exchange",
+          "Star Pact",
+          "Veil of Shadow"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[Caster] [v1.0.0.8] (u) (g4-5) Cold/frostburn 2H Spellbreaker  (Thrasheur)"
+    }
+  ],
+  "Trickster (Nightblade + Shaman)": [
+    {
+      "name": "Storm Zerker",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=31165",
+        "Damage": [
+          "Physical",
+          "Pierce",
+          "Cold",
+          "Bleed",
+          "Lightning",
+          "Electrocute"
+        ],
+        "Active Skills": [
+          "Shadow Strike",
+          "Pneumatic Burst",
+          "Blade Barrier",
+          "Savagery",
+          "Storm Totem"
+        ],
+        "Passive Skills": [
+          "Stormcaller's Pact",
+          "Mogdrogen's Pact"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[B31] (u) (g3) Storm Zerker (The Paleo Gamer)"
+    },
+    {
+      "name": "The Bleeding Heart",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?p=357843#post357843",
+        "Damage": [
+          "Bleeding",
+          "Piercing",
+          "Physical"
+        ],
+        "Active Skills": [
+          "Savagery",
+          "Phantasmal Blades",
+          "Ring of Steel",
+          "Blade Trap",
+          "Bloodbath",
+          "Blade Spirit",
+          "Devouring Swarm",
+          "Wendigo Totem"
+        ],
+        "Passive Skills": [
+          "Veil of Shadows",
+          "Primal Bond",
+          "Mogdrogen's Pact"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[B31] (u) (vid) (g0) (l) The Bleeding Heart (Cryodacry)"
+    },
+    {
+      "name": "Bloody Assassin",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48979",
+        "Damage": [
+          "Bleeding",
+          "Lightning"
+        ],
+        "Active Skills": [
+          "Shadow Strike",
+          "Savagery",
+          "Wendigo Totem",
+          "Devouring Swarm",
+          "Oleron's Might",
+          "Bloodthirster",
+          "Pneumatic Burst",
+          "Blade Barrier",
+          "Conjure Primal Spirit"
+        ],
+        "Passive Skills": [
+          "Veil of Shadow",
+          "Mogdrogen's Pact",
+          "Primal Bond/Stormcaller's Pact",
+          "Stormcaller Aura"
+        ],
+        "WPS Skills": [
+          "Whirling Death",
+          "Execution"
+        ]
+      },
+      "description": "[Melee] [v1.0.0.7] (u) (vid) (g5)  Bloody Assassin   (TZ Tz)"
+    },
+    {
+      "name": "The Winter King",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=50092",
+        "Damage": [
+          "Cold",
+          "Bleeding",
+          "Vitality"
+        ],
+        "Active Skills": [
+          "Winter King's Might",
+          "Grasping Vines",
+          "Devouring Swarm",
+          "Blade Spirit",
+          "Phantasmal Blades",
+          "Blade Barrier",
+          "Conjure Primal Spirit",
+          "Shadow Strike"
+        ],
+        "Passive Skills": [
+          "Mogdrogen's Pact",
+          "Frostdread Presence",
+          "Heart of the Winter King",
+          "Veil of Shadow",
+          "Primal Bond"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[caster] [1.0.0.7] (u) (g5)  The Winter King   (Parashara)"
+    },
+    {
+      "name": "[Dual-Wield Lightning] Lightning based Savagery/ABB Trickster",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=51688",
+        "Damage": [
+          "Lightning",
+          "Cold"
+        ],
+        "Active Skills": [
+          "Savagery",
+          "Amarasta's Blade Burst",
+          "Shadow Strike",
+          "Blade Barrier",
+          "Oleron's Might",
+          "Pneumatic Burst"
+        ],
+        "Passive Skills": [
+          "Stormcaller Aura",
+          "Stormcaller's Pact",
+          "Mogdrogen's Pact",
+          "Veil of Shadows"
+        ],
+        "WPS Skills": [
+          "Execution",
+          "Amarasta's Quick Cut"
+        ]
+      },
+      "description": "[caster] [1.0.0.8] (u) (g5)  [Dual-Wield Lightning] Lightning based Savagery/ABB Trickster   (Chthon)"
+    }
+  ],
+  "Warder (Shaman + Soldier)": [
+    {
+      "name": "Arc Destroyer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=32960",
+        "Damage": [
+          "Physical",
+          "leeding",
+          "Internal Trauma"
+        ],
+        "Active Skills": [
+          "Cadence",
+          "Blade Arc",
+          "Blitz",
+          "Wendigo Totem"
+        ],
+        "Passive Skills": [
+          "Field Command",
+          "Primal Bond",
+          "Mogdrogen's Pact"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[B31] (hc) (u) (vid) (g4) Arc Destroyer (The Paleo Gamer)"
+    },
+    {
+      "name": "Ultos, The Storm Striker",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=35117",
+        "Damage": [
+          "Physical",
+          "Bleed",
+          "Lightning"
+        ],
+        "Active Skills": [
+          "Primal Strike",
+          "Blitz",
+          "Wendigo Totem"
+        ],
+        "Passive Skills": [
+          "Field Command",
+          "Stormcaller's Pact",
+          "Pact of Mogdrogen",
+          "Menhir's Will",
+          "Brute Force",
+          "Scars of Battle",
+          "Military Conditioning",
+          "Decorated Soldier",
+          "and Fighting Spirit"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (vid) (g3) (l) Ultos, The Storm Striker (cadpgamer1992)"
+    },
+    {
+      "name": "Retaliation & Reflect Hetzer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=36239",
+        "Damage": [
+          "Retaliation",
+          "Reflect",
+          "Procs"
+        ],
+        "Active Skills": [
+          "Living Fortress",
+          "Overguard",
+          "Wendigo Totem",
+          "Grasping Vines",
+          "Blitz",
+          "Savagery"
+        ],
+        "Passive Skills": [
+          "Mogdrogen's Pact",
+          "Field Command",
+          "Menhir's Bulwark"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (hc) (vid) (g1) (l) Retaliation & Reflect Hetzer (Squib)"
+    },
+    {
+      "name": "Dual Wield Oleron's Warborn",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48147",
+        "Damage": [
+          "Physical",
+          "Internal Trauma"
+        ],
+        "Active Skills": [
+          "Blitz",
+          "Cadence",
+          "War Cry",
+          "Oleron's Might",
+          "Gaze of Beronath",
+          "Ground Smash",
+          "Bloodthirster"
+        ],
+        "Passive Skills": [
+          "Oleron's Rage",
+          "Counter Strike",
+          "Field Command",
+          "Mogdrogen's Pact"
+        ],
+        "WPS Skills": [
+          "Cadence",
+          "Fighting Spirit",
+          "Markovian's Advantage",
+          "Zolhan's Technique and Direwolf Claw"
+        ]
+      },
+      "description": "[Melee] [v1.0.0.6] (u) (vid) (g5)Dual Wield Oleron's Warborn (TZ Tz)"
+    },
+    {
+      "name": "Dual Wield Lightning Warder - The Stormblade",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48379",
+        "Damage": [
+          "Lightning",
+          "Electrocute"
+        ],
+        "Active Skills": [
+          "Blitz",
+          "Savagery",
+          "War Cry",
+          "Wendigo Totem",
+          "Oleron's Might",
+          "Wind Devil",
+          "Bloodthirster",
+          "Conjure Primal Spirit"
+        ],
+        "Passive Skills": [
+          "Counter Strike",
+          "Field Command",
+          "Mogdrogen's Pact",
+          "Stormcaller's Pact",
+          "Stormcaller Aura"
+        ],
+        "WPS Skills": [
+          "Fighting Spirit",
+          "Markovian's Advantage",
+          "Zolhan's Technique",
+          "Direwolf Claw"
+        ]
+      },
+      "description": "[Melee] [v1.0.0.6] (u) (vid) (g5)Dual Wield Lightning Warder - The Stormblade (TZ Tz)"
+    },
+    {
+      "name": "Dual Wield Bleeding Warder - Bloody Warrior",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48558",
+        "Damage": [
+          "Bleeding",
+          "Lightning"
+        ],
+        "Active Skills": [
+          "Blitz",
+          "Savagery",
+          "War Cry",
+          "Wendigo Totem",
+          "Oleron's Might",
+          "Devouring Swarm",
+          "Bloodthirster"
+        ],
+        "Passive Skills": [
+          "Counter Strike",
+          "Field Command",
+          "Mogdrogen's Pact",
+          "Primal Bond",
+          "Stormcaller Aura"
+        ],
+        "WPS Skills": [
+          "Fighting Spirit",
+          "Markovian's Advantage",
+          "Zolhan's Technique",
+          "Direwolf Claw"
+        ]
+      },
+      "description": "[Melee] [v1.0.0.6] (u) (vid) (g5)  Dual Wield Bleeding Warder - Bloody Warrior  (TZ Tz)"
+    }
+  ],
+  "Warlock (Arcanist + Occultist)": [
+    {
+      "name": "Aether Disintegration",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?p=370187#post370187",
+        "Damage": [
+          "Aether",
+          "Chaos",
+          "Fire",
+          "Vitality",
+          "Cold"
+        ],
+        "Active Skills": [
+          "Albrecht's Aether Ray",
+          "Devastation",
+          "Olexra's Flash Freeze",
+          "Blood of Dreeg",
+          "Doombolt",
+          "Mirror of Ereoctes",
+          "Nullification"
+        ],
+        "Passive Skills": [
+          "Maiven's Sphere of Protection",
+          "Reckless Power",
+          "Iskandra's Elemental Exchange"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (hc) (vid) (g5) (l) Aether Disintegration (Crilow)"
+    },
+    {
+      "name": "Voidmancer Summoner",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=46087",
+        "Damage": [
+          "Pets",
+          "Chaos",
+          "Vitality",
+          "Elemental"
+        ],
+        "Active Skills": [
+          "Blood of Dreeg",
+          "Call of the Beast",
+          "Chaos Strike",
+          "Curse of Frailty",
+          "Doom Bolt",
+          "Mirror of Ereoctes",
+          "Nullification",
+          "Olexra’s Flash Freeze",
+          "Pet attack",
+          " Solael’s Flame",
+          "Sovereign",
+          "Summon Familiar",
+          "Summon Hellhound",
+          "Summon Revenant of Og’Napesh"
+        ],
+        "Passive Skills": [
+          "Bonds of Bysmiel",
+          "Maiven’s Sphere of Protection",
+          "Fiendmaster",
+          "Iskandra’s Elemental Exchange"
+        ],
+        "WPS Skills": [
+          "na"
+        ]
+      },
+      "description": "[v1.0] (pet/caster) (u) (vid) (g4) (l)  Voidmancer Summoner  (Avatar of Dreeg)"
+    },
+    {
+      "name": "Gildam Archmage",
+      "data": {
+        "url": "http://grimdawn.com/forums/showthread.php?t=47227",
+        "Damage": [
+          "Aether",
+          "Chaos"
+        ],
+        "Active Skills": [
+          "Callidor's Tempest",
+          "Devastation",
+          "Doombolt",
+          "Blood of Dreeg",
+          "Dreeg Evil Eye",
+          "Mirror of Ereoctes",
+          "Nullification"
+        ],
+        "Passive Skills": [
+          "Iskandra's Elemental Exchange",
+          "Maiven's Sphere of Protection",
+          "Possesion",
+          "Solael's Witchfire"
+        ],
+        "WPS Skills": [
+          "na"
+        ]
+      },
+      "description": "[v1.0] (pet/caster) (u) (vid) (g4) (l)  Gildam Archmage (Zars)"
+    },
+    {
+      "name": "Pure Melee Fire Based DW Warlock",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=49277",
+        "Damage": [
+          "Fire"
+        ],
+        "Active Skills": [
+          "Beronath's Fury",
+          "Callidor's Tempest",
+          "Curse of Frailty",
+          "Mirror of Ereoctes",
+          "Nullification",
+          "Blood of Dreeg"
+        ],
+        "Passive Skills": [
+          "Iskandra's Elemental Exchange",
+          "Fire Aura",
+          "Reckless Power",
+          "Maiven's Sphere of Protection",
+          "Solael's Witchfire"
+        ],
+        "WPS Skills": [
+          "Mutilate"
+        ]
+      },
+      "description": "[v1.0.0.7] [Melee Warlock]  Pure Melee Fire Based DW Warlock (Chthon)"
+    },
+    {
+      "name": "Glass Cannon Warlock",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=49723",
+        "Damage": [
+          "Fire",
+          "Aether"
+        ],
+        "Active Skills": [
+          "Devastation",
+          "Mirror of Ereoctes",
+          "Nullification",
+          "Panetti's Replicating Missile",
+          "Curse of Frailty",
+          "Blood of Dreeg",
+          "Olexra's Flash Freeze",
+          "Albrecht's Aether Ray"
+        ],
+        "Passive Skills": [
+          "Iskandra's Unity",
+          "Maiven's Sphere of Protection",
+          "Reckless Power",
+          "Iskandra's Elemental Exchange",
+          "Fire Aura"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[caster] [1.0.0.7] (u)  Glass Cannon Warlock (Parashara)"
+    }
+  ],
+  "Witch Hunter (Nightblade + Occultist)": [
+    {
+      "name": "Handmaiden of Dreeg",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=34095",
+        "Damage": [
+          "Acid",
+          "Poison",
+          "Chaos",
+          "Cold",
+          "Pierce"
+        ],
+        "Active Skills": [
+          "Dual Blades",
+          "Shadow Strike",
+          "Pneumatic Burst",
+          "Blood of Dreeg"
+        ],
+        "Passive Skills": [
+          "Solael's Witchfire",
+          "Possession"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[B31] (u) (g3) Handmaiden of Dreeg (Caedas)"
+    },
+    {
+      "name": "Dreeg's Vomit",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=35167",
+        "Damage": [
+          "Acid/Poison",
+          "Vitality"
+        ],
+        "Active Skills": [
+          "Dreeg's Evil Eye",
+          "Pnuematic Burst",
+          "Blood of Dreeg",
+          "Curse of Frailty",
+          "Shadow Strike"
+        ],
+        "Passive Skills": [
+          "Veil of Shadow",
+          "Solael's Witchfire",
+          "Possession"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (g2-4) (l) Dreeg's Vomit (Mirenheart)"
+    },
+    {
+      "name": "Power of Chaos",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=35621",
+        "Damage": [
+          "Chaos",
+          "Vitality"
+        ],
+        "Active Skills": [
+          "Sigil of Consumption",
+          "Solael's Witchfire",
+          "Curse of Frailty,Possession",
+          "Pneumatic Burst",
+          "Veil of Shadow"
+        ],
+        "Passive Skills": [],
+        "WPS Skills": [
+          "Dual Blades Line"
+        ]
+      },
+      "description": "[v1.0] (u) (vid) (g4) Power of Chaos (Kataklysm)"
+    },
+    {
+      "name": "Dreeg's Kiss",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=36115",
+        "Damage": [
+          "Acid",
+          "Poison",
+          "Vitality",
+          "Chaos",
+          "Bleeding",
+          "Cold"
+        ],
+        "Active Skills": [
+          "Amarasta's Blade Burst",
+          "Shadow Strike",
+          "Pneumatic Burst",
+          "Blood of Dreeg",
+          "Curse of Frailty",
+          "Bladte Trap",
+          "Bloody Pox",
+          "Blade Spirit"
+        ],
+        "Passive Skills": [
+          "Veil Of Shadow",
+          "Possession",
+          "Solael's Witchfire",
+          "Poison Aura",
+          "Malediction"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (vid) (g4) Dreeg's Kiss (Psyclown)"
+    },
+    {
+      "name": "The Chaotic Grinder",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=39908",
+        "Damage": [
+          "Chaos",
+          "Vitality"
+        ],
+        "Active Skills": [
+          "Blood of Dreeg",
+          "Pneumatic Burst",
+          "Chaos Strike",
+          "Beronath's Fury"
+        ],
+        "Passive Skills": [
+          "Solael's Witchfire",
+          "Possession",
+          "Hellfire",
+          "Veil of Shadow"
+        ],
+        "WPS Skills": [
+          "Dual Blades Tree"
+        ]
+      },
+      "description": "[Melee][v1.0] (u) (g3)  The Chaotic Grinder (spaz.killington)"
+    },
+    {
+      "name": "Acid/Poison Witch Hunter",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=45635",
+        "Damage": [
+          "Poison,Acid"
+        ],
+        "Active Skills": [
+          "Curse of Frailty",
+          "Dreeg's Infinite Gaze",
+          "Dreeg's Afflicted Spines",
+          "Dreeg's Evil Eye",
+          "Shadow Strike",
+          "Pneumatic Burst",
+          "Blood of Dreeg",
+          "Blade Barrier"
+        ],
+        "Passive Skills": [
+          "Poison Aura",
+          "Veil of Shadow",
+          "Possesion"
+        ],
+        "WPS Skills": [
+          "n/a"
+        ]
+      },
+      "description": "[Caster][v1.0] (u) (vid) (g2)  Acid/Poison Witch Hunter (ACBelMutie)"
+    },
+    {
+      "name": "Cool Breeze",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?p=428972#post428972",
+        "Damage": [
+          "Cold",
+          "Pierce"
+        ],
+        "Active Skills": [
+          "shadow strike",
+          "oleron's might",
+          "ring of steel",
+          "blade burst",
+          "curse of frailty"
+        ],
+        "Passive Skills": [
+          "solael's witchfire",
+          "veil of shadow"
+        ],
+        "WPS Skills": [
+          "dual blades line",
+          "beronath's fury"
+        ]
+      },
+      "description": "[Melee][v1.0](u)(vid)(g4)  Cool Breeze (heurist)"
+    },
+    {
+      "name": "The Taipan",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=47642",
+        "Damage": [
+          "Acid/poison/pierce"
+        ],
+        "Active Skills": [
+          "Shadow strike",
+          "Amarasta's blade burst",
+          "Pneumatic burst",
+          "curse of frailty",
+          "Dreeg's infinite Gaze",
+          "Blood of dreegs"
+        ],
+        "Passive Skills": [
+          "Possession",
+          "malediction",
+          "Veil of shadow"
+        ],
+        "WPS Skills": []
+      },
+      "description": "(v1.0.0.6)(melee) (u) (c) (vid) (g2) The Taipan (Seppuku)"
+    },
+    {
+      "name": "Aether in Disguise - Dual Wield Aether Witch Hunter",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=49306",
+        "Damage": [
+          "Aether",
+          "Vitality"
+        ],
+        "Active Skills": [
+          "Shadow Strike",
+          "Beronath's Fury",
+          "Curse of Frailty",
+          "Necrosis",
+          "Doom Bolt",
+          "Bloodthirster",
+          "Pneumatic Burst",
+          "Blood of Dreeg",
+          "Blade Barrier",
+          "Clairvoyance"
+        ],
+        "Passive Skills": [
+          "Solael's Witchfire",
+          "Veil of Shadow",
+          "Possession"
+        ],
+        "WPS Skills": [
+          "Belgothian's Shears",
+          "Amarasta's Quick Cut",
+          "Whirling Death",
+          "Execution"
+        ]
+      },
+      "description": "[Melee] [v1.0.0.7] (u) (vid) (g5) Aether in Disguise - Dual Wield Aether Witch Hunter (TZ Tz)"
+    },
+    {
+      "name": "Dreeg's Champion",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=49047",
+        "Damage": [
+          "Acid",
+          "Poison"
+        ],
+        "Active Skills": [
+          "Dreeg's Evil Eye",
+          "Dreeg's Infinite Gaze",
+          "Dreeg's Afflicted Spines",
+          "Curse of Frailty",
+          "Blood of Dreeg",
+          "Pneumatic Burst",
+          "Blade Barrier"
+        ],
+        "Passive Skills": [
+          "Veil of Shadows",
+          "Possession",
+          "Aether-Ward Aura"
+        ],
+        "WPS Skills": [
+          "none"
+        ]
+      },
+      "description": "[caster] [v1.0.0.7]  Dreeg's Champion (Tomodak)"
+    },
+    {
+      "name": "Nidalla's Witch Hunter",
+      "data": {
+        "url": "http://grimdawn.com/forums/showthread.php?p=475788#post475788",
+        "Damage": [
+          "Poison/acid"
+        ],
+        "Active Skills": [
+          "Blood of Dreeg",
+          "Amarasta's Blade Burst",
+          "Ring of Steel",
+          "Shadow Strike",
+          "Pneumatic Burst",
+          "Blade Barrier"
+        ],
+        "Passive Skills": [
+          "Possession",
+          "Veil of Shadow",
+          "Phantasmal Armor",
+          "Anatomy of Murder",
+          "Merciless Repertoire",
+          "Malediction",
+          "Dual blades",
+          "Nidalla's Hidden Hand."
+        ],
+        "WPS Skills": [
+          "Belgothian's Shears",
+          "Amarasta's Quick Cut",
+          "Whirling Death"
+        ]
+      },
+      "description": "[v1.0](vid)(u)(melee)  Nidalla's Witch Hunter (Kluga)"
+    },
+    {
+      "name": "[Poison Caster] Blood Pox Poison-based Witch Hunter",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=51174",
+        "Damage": [
+          "Poison"
+        ],
+        "Active Skills": [
+          "Blood Pox",
+          "Dreeg's Infinite Gaze",
+          "Dreeg's Afflicted Spines",
+          "Plague of Shattered Souls",
+          "Blood of Dreeg",
+          "Blade Barrier",
+          "Oleron's Might"
+        ],
+        "Passive Skills": [
+          "Veil of Shadows",
+          "Possession",
+          "Solael's Witchfire"
+        ],
+        "WPS Skills": [
+          "None"
+        ]
+      },
+      "description": "[v1.0](u)(Caster) [1.0.0.7]  [Poison Caster] Blood Pox Poison-based Witch Hunter (Chthon)"
+    }
+  ],
+  "Witchblade (Occultist + Soldier)": [
+    {
+      "name": "Blood Rite",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=37945",
+        "Damage": [
+          "Chaos",
+          "Vitality"
+        ],
+        "Active Skills": [
+          "Beronath's Fury",
+          "Silver Spread",
+          "Doom Bolt",
+          "Sigil Of Consumption",
+          "Blitz",
+          "War Cry",
+          "Blood of Dreeg"
+        ],
+        "Passive Skills": [
+          "Possession",
+          "Solael's witchfire",
+          "Summon familar",
+          "Field Command",
+          "Blood Rite"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[v1.0] (u) (vid) (g4-5) Blood Rite (Psyclown)"
+    },
+    {
+      "name": "OJ, The Chaos Tank",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=39673",
+        "Damage": [
+          "Chaos",
+          "Physical",
+          "Fire mostly with minor Bleed and Internal Trauma"
+        ],
+        "Active Skills": [
+          "Blood of Dreeg",
+          "War Cry",
+          "Blade Arc and Chaos Strike"
+        ],
+        "Passive Skills": [
+          "Solael's Witchfire",
+          "Possession and Field Command"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[Melee] [V1.0] (u) (hc) (g3) (l) OJ, The Chaos Tank (Imp)"
+    },
+    {
+      "name": "The Deathbringer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?p=420970#post420970",
+        "Damage": [
+          "Chaos",
+          "Physical",
+          "Vitality"
+        ],
+        "Active Skills": [
+          "Cadence",
+          "Doom Bolt",
+          "Blood of Dreeg"
+        ],
+        "Passive Skills": [
+          "Solael's Witchfire",
+          "Possession",
+          "Field Command"
+        ],
+        "WPS Skills": [
+          "Fighting Spirit",
+          "Deadly Momentum"
+        ]
+      },
+      "description": "[Ranged] (u) (vid) (g5)  The Deathbringer (Crazyfroggg)"
+    },
+    {
+      "name": "Poison master",
+      "data": {
+        "url": "http://grimdawn.com/forums/showthread.php?p=426740#post426740",
+        "Damage": [
+          "Acid Poison."
+        ],
+        "Active Skills": [
+          "Dreeg's Evil Eye",
+          "Dreeg's Infinite Gaze",
+          "Dreeg's Afflicted Spines",
+          "Curse of Frailty",
+          "Blood of Dreeg"
+        ],
+        "Passive Skills": [
+          "Possession",
+          "Field Command",
+          "Aether Ward Aura"
+        ],
+        "WPS Skills": [
+          "na"
+        ]
+      },
+      "description": "[Caster][v1.0] (u) (g4) (l) Poison master (Nandi)"
+    },
+    {
+      "name": "Dual Wield Warborn Executioner",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48273",
+        "Damage": [
+          "Physical",
+          "Internal Trauma",
+          "Acid"
+        ],
+        "Active Skills": [
+          "Blitz",
+          "Cadence",
+          "War Cry",
+          "Blood of Dreeg",
+          "Curse of Frailty",
+          "Oleron's Might",
+          "Ground Smash",
+          "Bloodthirster"
+        ],
+        "Passive Skills": [
+          "Oleron's Rage",
+          "Counter Strike",
+          "Field Command",
+          "Solael's Witchfire",
+          "Vengeance of Cairn"
+        ],
+        "WPS Skills": [
+          "Cadence",
+          "Fighting Spirit",
+          "Markovian's Advantage",
+          "Zolhan's Technique",
+          "Direwolf Claw"
+        ]
+      },
+      "description": "[Melee] [v1.0.0.6] (u) (vid) (g5)  Dual Wield Warborn Executioner (TZ Tz)"
+    },
+    {
+      "name": "Fist of the Northern Star faceroll build",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?p=450828#post450828",
+        "Damage": [
+          "Acid",
+          "Poison"
+        ],
+        "Active Skills": [
+          "Cadence",
+          "Dreeg's Infinite Gaze",
+          "Dreeg's Afflicted Spines",
+          "Dreeg's Evil Eye",
+          "Curse of Frailty",
+          "War Cry",
+          "Blood of Dreeg",
+          "Overguard",
+          "Blitz",
+          "Blood Pox"
+        ],
+        "Passive Skills": [
+          "Solael's Witchfire",
+          "Possession",
+          "Field Command",
+          "Divine Guard"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[Melee] [v1.0.0.6] (u) (g5)  Fist of the Northern Star faceroll build (Gutz)"
+    },
+    {
+      "name": "[Melee Aether] Sword & Board Aether Cadence Witchblade",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=50326",
+        "Damage": [
+          "Aether"
+        ],
+        "Active Skills": [
+          "Cadence",
+          "Overguard",
+          "War Cry",
+          "Curse of Frailty",
+          "Blood of Dreeg"
+        ],
+        "Passive Skills": [
+          "Possession",
+          "Solael's Witchfire",
+          "Field Command",
+          "Aether Aura"
+        ],
+        "WPS Skills": []
+      },
+      "description": "[Melee] [v1.0.0.7] (u)  [Melee Aether] Sword & Board Aether Cadence Witchblade (Chthon)"
+    }
+  ],
+  "Demolitionist": [
+    {
+      "name": "Technomancer",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=41355",
+        "Damage": [
+          "Fire",
+          "Lightning"
+        ],
+        "Active Skills": [
+          "Stun Jacks",
+          "Flashbang",
+          "Black Water Cocktail",
+          "Cannister Bomb",
+          "Grenado."
+        ],
+        "Passive Skills": [
+          "Ulzuin's Chosen"
+        ]
+      },
+      "description": "[Ranged, Caster] [v1.0] (u) (vid) (g1-5) (l)Technomancer (Dandy)"
+    }
+  ],
+  "Soldier": [
+    {
+      "name": "Pure Soldier, OP Cadence and Break morale in action",
+      "data": {
+        "url": "http://www.grimdawn.com/forums/showthread.php?t=48318",
+        "Damage": [
+          "Physical"
+        ],
+        "Active Skills": [
+          "Cadence",
+          "War cry"
+        ],
+        "Passive Skills": [
+          "Menhirs will",
+          "Counter strike"
+        ],
+        "WPS Skills": [
+          "Markovians advantage",
+          "Zolhans technique"
+        ]
+      },
+      "description": "[Melee] [v1.0.0.6.] (u)(c)(g3) [1.0.0.6.]Pure Soldier, OP Cadence and Break morale in action (JoV)"
+    }
+  ]
+}
