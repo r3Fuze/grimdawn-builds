@@ -14,6 +14,7 @@ const SKILL_TYPES = {
 }
 
 let classList = {}
+let allSkills = []
 
 // Populate classList
 for (let cl of CLASSES) {
@@ -56,6 +57,7 @@ got(WIKI_URL)
                         skillList[category] = []
                     }
 
+                    allSkills.push(name)
                     skillList[category].push(name)
 
                     // console.log(`${category} - ${name}`)
@@ -86,6 +88,13 @@ got(WIKI_URL)
             }
 
             jsonfile.writeFile("./skills.json", classList, { spaces: 2 }, err => {
+                if (err) {
+                    throw err
+                }
+                console.log("json written")
+            })
+
+            jsonfile.writeFile("./skills-all.json", allSkills.sort(), { spaces: 2 }, err => {
                 if (err) {
                     throw err
                 }
