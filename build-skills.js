@@ -57,6 +57,11 @@ got(WIKI_URL)
                         skillList[category] = []
                     }
 
+                    // Fix typo on Wiki
+                    if (name === "Flamed Touched") {
+                        name = "Flame Touched"
+                    }
+
                     allSkills.push(name)
                     skillList[category].push(name)
 

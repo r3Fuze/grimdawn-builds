@@ -123,15 +123,17 @@ got(BUILDS_URL)
                         let propValue = onlyText($el)
 
                         // Split on ', ' and " and "
-                        let propValues = propValue.split(/, | and /)
+                        let propValues = propValue.split(/, ?| and |\+|\//)
 
                         propValues = _.compact(propValues)
 
-                        // Account for messed up HTML formatting
-                        propValues = _.map(propValues, e => e.replace(":", "").trim())
+                        // Account for messed up HTML formatting and weird quotes
+                        propValues = propValues.map(e => e.replace(":", "").replace("’", "'").trim())
+
+                        propValues = propValues.filter(e => !e.toLowerCase().includes("pet attack"))
 
                         // Replace arrays only containing "None" or empty strings with empty arrays
-                        if (propValues.length === 1 && (propValues[0] === "None" || propValues[0] === "")) {
+                        if (propValues.length === 1 && (propValues[0] === "None" || propValues[0] === "" || propValues[0] === "n/a")) {
                             propValues = []
                         }
 

@@ -7,7 +7,8 @@
   "license": "MIT",
   "scripts": {
     "start": "babel-node build-json.js --presets es2015,stage-2",
-    "skills": "babel-node build-skills.js --presets es2015,stage-2"
+    "skills": "babel-node build-skills.js --presets es2015,stage-2",
+    "check": "babel-node check-skills.js --presets es2015,stage-2"
   },
   "dependencies": {
     "fs-promise": "^2.0.0",
