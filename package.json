@@ -8,9 +8,12 @@
   "scripts": {
     "start": "babel-node build-json.js --presets es2015,stage-2",
     "skills": "babel-node build-skills.js --presets es2015,stage-2",
-    "check": "babel-node check-skills.js --presets es2015,stage-2"
+    "check": "babel-node check-skills.js --presets es2015,stage-2",
+    "item-skills": "babel-node build-item-skills.js --presets es2015,stage-2"
   },
   "dependencies": {
+    "array-lowercase": "^0.1.2",
+    "didyoumean2": "^1.3.0",
     "fs-promise": "^2.0.0",
     "got": "^6.7.1",
     "jquery": "^3.1.1",
@@ -35,10 +38,12 @@
       ],
       "dot-notation": "off",
       "spaced-comment": "off",
+      "max-depth": "off",
       "object-curly-spacing": "off",
       "no-unused-expressions": "off",
       "no-else-return": "off",
       "no-warning-comments": "off",
+      "no-unused-vars": "off",
       "guard-for-in": "off",
       "import/prefer-default-export": "off",
       "import/default": "off",
